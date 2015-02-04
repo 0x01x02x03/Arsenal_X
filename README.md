@@ -7,7 +7,7 @@ I bring you the new version of my Arsenal X written in Perl with the following o
 [+] Table<br>
 [+] Downloader<br>
 [+] Get IP<br>
-[+] Locate IP<br><br>
+[+] Locate IP<br>
 [+] K0bra SQLI Scanner<br>
 [+] Crack multiple hashes<br>
 [+] Search admin panel<br>
