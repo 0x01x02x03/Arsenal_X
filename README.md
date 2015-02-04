@@ -1,4 +1,4 @@
-# Arsenal_X
+# Arsenal X
 
 I bring you the new version of my Arsenal X written in Perl with the following options:<br>
 <br>
