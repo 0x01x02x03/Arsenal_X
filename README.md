@@ -1,6 +1,6 @@
 # Arsenal X
 
-I bring you the new version of my Arsenal X written in Perl with the following options:<br>
+New version of my Arsenal X written in Perl with the following options:<br>
 <br>
 [+] Gmail Inbox<br>
 [+] Whois Client<br>
