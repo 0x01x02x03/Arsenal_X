@@ -17,10 +17,10 @@ New version of my Arsenal X written in Perl with the following options:<br>
 
 An image : 
 
-![image](http://doddyhackman.webcindario.com/images/arsenalx.jpg)
+![image](http://doddyhackman.webcindario.com/images/arsenalx_delphi.jpg)
 
 An video : 
 
-[![Alt text for your video](http://img.youtube.com/vi/1gzpv2DV2ec/0.jpg)](http://www.youtube.com/watch?v=1gzpv2DV2ec)
+[![Alt text for your video](http://img.youtube.com/vi/0xIHZGiqprc/0.jpg)](http://www.youtube.com/watch?v=0xIHZGiqprc)
 
 Good Bye
