@@ -1,6 +1,6 @@
 # Project Arsenal X
 
-New version of my Arsenal X written in Perl with the following options:<br>
+New version of my Arsenal X written in Delphi with the following options:<br>
 <br>
 [+] Gmail Inbox<br>
 [+] Whois Client<br>
